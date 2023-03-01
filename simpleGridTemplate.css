@@ -80,7 +80,7 @@ header {
 }
 .gallery {
 	clear: both;
-	display: inline-flex;
+	display: flex;
 	width: 100%;
 	background-color: #FFFFFF;
 	/* [disabled]min-width: 400px;
